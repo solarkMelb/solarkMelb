@@ -7,6 +7,7 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 
 ### Contact Me
 - ✉️> duongminhhoang.personal.mail@gmail.com
+- ![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg)> linkedin.com/in/duong-hoang-340a602a6
 <!--
 **solarkMelb/solarkMelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
