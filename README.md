@@ -5,6 +5,8 @@
 - ❤️ Passionate about software architect, model fine-tuning and implementation, data management and processing.
 - ✈️ Cross-domain curiosity, interested in Aviation and Finance.
 
+### Contact Me
+- ✉️> duongminhhoang.personal.mail@gmail.com
 <!--
 **solarkMelb/solarkMelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
