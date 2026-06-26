@@ -4,6 +4,7 @@ I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺
 - 💻 Proficient in Python, currently learning Rust.
 - ❤️ Passionate about software architect, model fine-tuning and implementation, data management and processing.
 - ✈️ Cross-domain curiosity, interested in Aviation and Finance.
+- Upcoming Personal Project: [LedgerLense](https://github.com/solarkMelb/LedgerLens)
 
 ### Contact Me
 - ✉️> duongminhhoang.personal.mail@gmail.com
