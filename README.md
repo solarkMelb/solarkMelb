@@ -1,6 +1,7 @@
 ## Hi, I'm Minh 
+### Introduction
 
-- 🇦🇺 I'm a AI Engineer, Data Engineer from Melbourne.
+🇦🇺 I'm a AI Engineer, Data Engineer from Melbourne.
 - 💻 Proficient in Python, currently learning Rust.
 - ❤️ Passionate about software architect, model fine-tuning and implementation, data management and processing.
 - ✈️ Cross-domain curiosity, interested in Aviation and Finance.
