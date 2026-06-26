@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Minh 
+
+- 🇦🇺 I'm a AI Engineer, Data Engineer from Melbourne.
+- 💻 Proficient in Python, currently learning Rust.
+- ❤️ Passionate about software architect, model fine-tuning and implementation, data management and processing.
+- ✈️ Cross-domain curiosity, interested in Aviation and Finance.
 
 <!--
 **solarkMelb/solarkMelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
