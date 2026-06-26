@@ -1,5 +1,4 @@
 ## Hi, I'm Minh 
-### Introduction
 
 I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺 
 - 💻 Proficient in Python, currently learning Rust.
