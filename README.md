@@ -3,7 +3,7 @@
 I'm a AI Engineer, Data Engineer from Melbourne, Australia 🇦🇺 
 - 💻 Proficient in Python, currently learning Rust and Javascript.
 - ❤️ Passionate about software architect, model fine-tuning and implementation, data management and processing, LLMs
-- ✈️ Cross-domain curiosity, interested in Aviation and Finance.
+- ✈️ Cross-domain curiosity, interested in General Aviation and Finance.
 
 ### Contact Me
 - ✉️> duongminhhoang.personal.mail@gmail.com
